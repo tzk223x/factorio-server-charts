@@ -293,7 +293,7 @@ rcon:
   passwordSecret: "factorio-rcon"
 
   # Password for rcon
-  password: "ignored"
+  password: "ignored-dummy-value"
 
   # rcon port
   port: 30100

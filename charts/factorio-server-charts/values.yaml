@@ -48,7 +48,7 @@ nodeSelector: {}
 ## The best way ist to define a ClusterIP service and define one or more externalIPs. Of course this IPs must be available on the node the factorio pod runs on!
 service:
   type: NodePort
-  port: 31497
+  port: 34197
   ## If you are able to map an external IP, set it here
   # externalIPs:
   #  - "192.168.0.1"
